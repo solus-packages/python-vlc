@@ -1,6 +1,6 @@
 name       : python-vlc
 version    : 3.0.102
-release    : 1
+release    : 2
 source     :
     - https://files.pythonhosted.org/packages/a4/54/0d2797e4b1c4891004ffaae22510419ec25b2b318385dde31f45060a7e79/python-vlc-3.0.102.tar.gz : c51a1c553852a08bd92176de473e15bda7d507ff5ec58005b2a9de5ca8f593a5
 license    : LGPL-2.0-or-later
